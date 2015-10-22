@@ -1,0 +1,14 @@
+#container{
+	position:relative;
+}
+
+#box{
+	background: pink;
+	position: absolute;
+	top:50px;
+	right:0;
+	border-radius:5px;
+}
+#p1, #p2, #p3{
+	color: brown;
+}
